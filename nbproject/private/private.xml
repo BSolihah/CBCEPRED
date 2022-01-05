@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ExtractDataTraining/ExtractLogOdds.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ComplexCalculate/UnboundDSSP.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/SpatialAnalysis/GraphPredictedEpitope.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/SpatialAnalysis/Cluster.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/dataset/seqepiexposed.txt</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/rescbc/list_antigen_andersen.txt</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ComplexStructure/Complex.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/CBCTop/PairResiduIdFeature.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ComplexStructure/Chain.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ExtractDataTraining/ExtractBenchmark.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/CBCTop/ConfBCTop.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/CBCTop/ComplexPreparation.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/SpatialAnalysis/PairIdResidu.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ExtractData/CreateComplexStructure.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/StructureAnalysis/LogOdds.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ComplexStructure/Aminoacid.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ExtractFromFile/IO.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ExtractDataTraining/ExtractProtusionIndex.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ExtractDataTraining/Benchmark.java</file>
+            <file>file:/F:/NetBeansProjects/CBCEPRED/src/ExtractDataTraining/ExtractNewFeature.java</file>
+        </group>
+    </open-files>
+</project-private>
